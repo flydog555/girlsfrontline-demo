@@ -1,0 +1,8 @@
+accountname:PETER
+password:20060415
+name:·ÉÏèµÄÍôĞÇÈË
+level:3
+manpower:10000
+ammunition:10000
+pation:10000
+part:10000

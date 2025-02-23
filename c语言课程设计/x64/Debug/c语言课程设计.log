@@ -1,0 +1,17 @@
+﻿  register.cpp
+C:\Users\Precsion5570\Desktop\新建文件夹\c语言课程设计\c语言课程设计\register.cpp(69,25): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Precsion5570\Desktop\新建文件夹\c语言课程设计\c语言课程设计\register.cpp(70,26): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Precsion5570\Desktop\新建文件夹\c语言课程设计\c语言课程设计\register.cpp(89,25): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Precsion5570\Desktop\新建文件夹\c语言课程设计\c语言课程设计\register.cpp(139,32): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Precsion5570\Desktop\新建文件夹\c语言课程设计\c语言课程设计\register.cpp(180,36): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Precsion5570\Desktop\新建文件夹\c语言课程设计\c语言课程设计\register.cpp(200,40): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Precsion5570\Desktop\新建文件夹\c语言课程设计\c语言课程设计\register.cpp(206,47): warning C4244: “参数”: 从“wchar_t”转换到“const _Elem”，可能丢失数据
+C:\Users\Precsion5570\Desktop\新建文件夹\c语言课程设计\c语言课程设计\register.cpp(206,47): warning C4244:         with
+C:\Users\Precsion5570\Desktop\新建文件夹\c语言课程设计\c语言课程设计\register.cpp(206,47): warning C4244:         [
+C:\Users\Precsion5570\Desktop\新建文件夹\c语言课程设计\c语言课程设计\register.cpp(206,47): warning C4244:             _Elem=char
+C:\Users\Precsion5570\Desktop\新建文件夹\c语言课程设计\c语言课程设计\register.cpp(206,47): warning C4244:         ]
+C:\Users\Precsion5570\Desktop\新建文件夹\c语言课程设计\c语言课程设计\register.cpp(388,27): warning C4477: “fprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const std::string”
+C:\Users\Precsion5570\Desktop\新建文件夹\c语言课程设计\c语言课程设计\register.cpp(389,27): warning C4477: “fprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const std::string”
+C:\Users\Precsion5570\Desktop\新建文件夹\c语言课程设计\c语言课程设计\register.cpp(390,27): warning C4477: “fprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const std::string”
+C:\Users\Precsion5570\Desktop\新建文件夹\c语言课程设计\c语言课程设计\register.cpp(401,13): warning C4551: 缺少参数列表的函数调用
+  c语言课程设计.vcxproj -> C:\Users\Precsion5570\Desktop\新建文件夹\c语言课程设计\x64\Debug\c语言课程设计.exe
